@@ -1,0 +1,5 @@
+biplist==0.9
+keyring==5.3
+py2app==0.9
+requests==2.5.3
+rumps==0.2.1
