@@ -1,5 +1,7 @@
 # HipStatus #
 
+> **This project no longer functions in its current state. Microsoft no longer allows HTTP Basic authentication to the Office 365 REST API.** -- Bryson Tyrrell, Feb 28, 2017
+
 ## What were we trying to solve? ##
 
 JAMF Software once used Microsoft Lync for internal chat before moving to HipChat. While everyone enjoys using HipChat much more than Lync, there was a widely used feature that HipChat did not support: presence. If a user was in a meeting in their calendar, Lync would display them as "busy" and then reset the user to "available" once the meeting was over.
